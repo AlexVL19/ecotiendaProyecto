@@ -1,0 +1,14 @@
+#fondo2 {
+    background-image: url("../img/image2.jpg");
+    height: 500px;
+    max-width: 100%;
+}
+
+#titulo {
+    color: white;
+    padding-top: 250px;
+}
+
+#footer {
+    background-color: rgb(60, 168, 102);
+}

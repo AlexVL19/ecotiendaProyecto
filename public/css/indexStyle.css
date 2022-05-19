@@ -1,0 +1,11 @@
+#fondo1 {
+    background-image: url("../img/image.jpg");
+    height: 500px;
+    max-width: 100%;
+}
+
+#titulo {
+    color: white;
+    padding-top: 250px;
+}
+
